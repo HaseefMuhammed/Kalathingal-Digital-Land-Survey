@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+#brand{
+font-family: "Delicious Handrawn", cursive;
+font-size: 1em;
+color: orange;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+#abt{
+	box-shadow: 0 0 10px 1px black;
+	border-radius: 10px;
+}
+#brand2{
+	font-family: "Delicious Handrawn", cursive;
+font-size: 3em;
+color: orange;
+}
+.links{
+	text-decoration: none;
+	color: white;
+}
+.bg-blue{
+	background-color: #e9eef8;
+}
+#font-ctn{
+	font-family: "Quicksand", sans-serif;
+}
